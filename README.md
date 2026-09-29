@@ -68,7 +68,7 @@ Type `b` is also the only store type associated with Assortment `b`, making it i
 
 Among the standard store types (`a`, `c`, and `d`), stores carrying Assortment `c` consistently record higher average daily sales than those carrying Assortment `a`.
 
-![Sales by Store Type and Assortment]()
+![Sales by Store Type and Assortment](https://github.com/KinneryAnyanga/Rossman-Sales-Analysis/blob/9a0132e00bd2a60d26a377a2f8860e137bd997f6/Images/storetypes.png)
 
 ### 3. The Impact of Promotions
 Promotional activity is associated with higher sales across the working week. The median and interquartile ranges of daily sales are generally higher on promotional days from Monday through Friday.
