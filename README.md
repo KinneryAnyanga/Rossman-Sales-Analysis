@@ -58,7 +58,7 @@ Some stores experience exceptionally high daily revenue, exceeding €40,000.
 In contrast, sales per customer are more concentrated around €10, suggesting that variations in total daily revenue may 
 be associated more closely with customer volume than with changes in average spending.
 
-![Sales Distribution and Outlier Analysis](https://github.com/KinneryAnyanga/Rossman-Sales-Analysis/commit/9a0132e00bd2a60d26a377a2f8860e137bd997f6#diff-94e81ef6463203215cdb238c48ba56bbe13384b62d483e212064bbc993577d3c)
+![Sales Distribution and Outlier Analysis](https://github.com/KinneryAnyanga/Rossman-Sales-Analysis/blob/9a0132e00bd2a60d26a377a2f8860e137bd997f6/Images/Distribution.png)
 
 ### 2. Store Type and Assortment Performance
 
@@ -68,7 +68,7 @@ Type `b` is also the only store type associated with Assortment `b`, making it i
 
 Among the standard store types (`a`, `c`, and `d`), stores carrying Assortment `c` consistently record higher average daily sales than those carrying Assortment `a`.
 
-![Sales by Store Type and Assortment](https://github.com/KinneryAnyanga/Rossman-Sales-Analysis/commit/9a0132e00bd2a60d26a377a2f8860e137bd997f6#diff-82af11d8e8af799d3405ec11713c747f0a659464383fac070f7a1d5807c669a2)
+![Sales by Store Type and Assortment]()
 
 ### 3. The Impact of Promotions
 Promotional activity is associated with higher sales across the working week. The median and interquartile ranges of daily sales are generally higher on promotional days from Monday through Friday.
@@ -77,7 +77,7 @@ The analysis also reveals that active promotions are absent on Saturdays and Sun
 
 These findings describe observed associations and do not, by themselves, establish causation.
 
-![Promotional Impact on Sales](https://github.com/KinneryAnyanga/Rossman-Sales-Analysis/commit/9a0132e00bd2a60d26a377a2f8860e137bd997f6#diff-c4c3eadb3be53c075716d9baaf5ebe036c5053337a4284dedc01626745f9904a)
+![Promotional Impact on Sales](https://github.com/KinneryAnyanga/Rossman-Sales-Analysis/blob/9a0132e00bd2a60d26a377a2f8860e137bd997f6/Images/PromoAnalysis.png)
 
 ### 4. Seasonality and Time-Series Trends
 
@@ -87,7 +87,7 @@ Sales experience a noticeable mid-year decline, particularly in July. In contras
 
 These patterns highlight the importance of accounting for seasonality when planning inventory, staffing, and promotional budgets.
 
-![Monthly Sales Heatmap]([https://github.com/KeDataLab/rossman-sales-analysis/blob/main/Images/heatmap.png](https://github.com/KinneryAnyanga/Rossman-Sales-Analysis/commit/9a0132e00bd2a60d26a377a2f8860e137bd997f6#diff-c00fe430f88d773cfd850036edbe70170744d8cba8f3d2ae8faced5c50656461))
+![Monthly Sales Heatmap](https://github.com/KinneryAnyanga/Rossman-Sales-Analysis/blob/9a0132e00bd2a60d26a377a2f8860e137bd997f6/Images/heatmap.png)
 
 ## Strategic Business Recommendations
 
